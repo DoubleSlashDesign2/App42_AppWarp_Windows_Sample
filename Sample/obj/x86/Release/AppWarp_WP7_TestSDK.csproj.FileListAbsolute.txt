@@ -1,0 +1,14 @@
+C:\Users\App42Admin\Downloads\AppWarp_WP7_SDK_DLL-master\AppWarp_WP7_SDK_DLL-master\Sample\obj\x86\Release\App.g.cs
+C:\Users\App42Admin\Downloads\AppWarp_WP7_SDK_DLL-master\AppWarp_WP7_SDK_DLL-master\Sample\obj\x86\Release\MainPage.g.cs
+C:\Users\App42Admin\Downloads\AppWarp_WP7_SDK_DLL-master\AppWarp_WP7_SDK_DLL-master\Sample\obj\x86\Release\AppWarp_WP7_TestSDK.g.resources
+C:\Users\App42Admin\Downloads\AppWarp_WP7_SDK_DLL-master\AppWarp_WP7_SDK_DLL-master\Sample\Bin\x86\Release\ApplicationIcon.png
+C:\Users\App42Admin\Downloads\AppWarp_WP7_SDK_DLL-master\AppWarp_WP7_SDK_DLL-master\Sample\Bin\x86\Release\Background.png
+C:\Users\App42Admin\Downloads\AppWarp_WP7_SDK_DLL-master\AppWarp_WP7_SDK_DLL-master\Sample\Bin\x86\Release\AppWarp_WP7_TestSDK.dll
+C:\Users\App42Admin\Downloads\AppWarp_WP7_SDK_DLL-master\AppWarp_WP7_SDK_DLL-master\Sample\Bin\x86\Release\AppWarp_WP7_SDK.dll
+C:\Users\App42Admin\Downloads\AppWarp_WP7_SDK_DLL-master\AppWarp_WP7_SDK_DLL-master\Sample\obj\x86\Release\AppWarp_WP7_TestSDK.dll
+C:\Users\App42Admin\Downloads\AppWarp_WP7_SDK_DLL-master\AppWarp_WP7_SDK_DLL-master\Sample\obj\x86\Release\AppWarp_WP7_TestSDK.pdb
+C:\Users\App42Admin\Downloads\AppWarp_WP7_SDK_DLL-master\AppWarp_WP7_SDK_DLL-master\Sample\Bin\x86\Release\AppWarp_WP7_TestSDK.pdb
+C:\Users\App42Admin\Downloads\AppWarp_WP7_SDK_DLL-master\AppWarp_WP7_SDK_DLL-master\Sample\Bin\x86\Release\AppManifest.xaml
+C:\Users\App42Admin\Downloads\AppWarp_WP7_SDK_DLL-master\AppWarp_WP7_SDK_DLL-master\Sample\Bin\x86\Release\Properties\WMAppManifest.xml
+C:\Users\App42Admin\Downloads\AppWarp_WP7_SDK_DLL-master\AppWarp_WP7_SDK_DLL-master\Sample\Bin\x86\Release\AppWarp_WP7_TestSDK_Release_x86.xap
+C:\Users\App42Admin\Downloads\AppWarp_WP7_SDK_DLL-master\AppWarp_WP7_SDK_DLL-master\Sample\obj\x86\Release\XapCacheFile.xml
